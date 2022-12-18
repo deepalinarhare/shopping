@@ -1,0 +1,12 @@
+.navbar-brand{
+    color: beige;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-item{
+    padding:20px;
+}
